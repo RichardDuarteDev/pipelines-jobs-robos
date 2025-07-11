@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Registrar no log a execução do monitor
-echo "$(date) - Monitor de processo Firefox em execução" >> /stopStart/nginx.log
+echo "$(date) - Monitor de processo NGINX em execução" >> /stopStart/nginx.log
 
 # Configurações
 EMAIL_DESTINO="cik.c@hotmail.com"
