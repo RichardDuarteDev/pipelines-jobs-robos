@@ -17,11 +17,6 @@ Assista no YouTube  a explicação e o fucnionamento pratico!
 Click na imagem
 [![Assista no YouTube  a explicação e o fucnionamento pratico!](https://img.youtube.com/vi/lseSDTf1V50/0.jpg)](https://youtu.be/lseSDTf1V50)
 
-Tarefas / Jobs 
-
-
-<img width="567" height="463" alt="Captura de tela 2025-07-14 202658" src="https://github.com/user-attachments/assets/d23b7673-bfd6-4eb6-b83e-fce3c7090abf" />
-
 
 ## 📌 Conceitos Aplicados
 
